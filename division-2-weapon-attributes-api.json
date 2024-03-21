@@ -1,16 +1,16 @@
 {
-  "Weapon Damage": 15,
+  "Weapon Damage": [15],
   "Damage to Armor": [6, 12],
   "Critical Hit Chance": [9.5, 21],
   "Health Damage": [9.5, 21],
   "DMG to target out of cover": [10, 12],
   "Headshot Damage": [10, 111, 137],
   "Critical Hit Damage": [10, 17],
-  "Reload Speed": 12,
-  "Stability": 12,
-  "Accuracy": 12,
-  "Optimal Range": 24,
-  "Magazine Size": 12.5,
-  "Rate of Fire": 5,
-  "Swap Speed": 15
+  "Reload Speed": [12],
+  "Stability": [12],
+  "Accuracy": [12],
+  "Optimal Range": [24],
+  "Magazine Size": [12.5],
+  "Rate of Fire": [5],
+  "Swap Speed": [15]
 }
